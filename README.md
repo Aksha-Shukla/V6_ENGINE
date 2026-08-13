@@ -96,7 +96,7 @@ Designing a detailed V6 engine in SolidWorks from scratch using real references,
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 🗓️ Date: [23 June]  
-⏱️ Time Spent: [Duration, e.g., 1 hour]  
+⏱️ Time Spent: [Duration 1 hour]  
 📍 Part: [Rocker arm]
 
 🛠️ What I did:
@@ -134,7 +134,7 @@ Designing a detailed V6 engine in SolidWorks from scratch using real references,
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 🗓️ Date: [25 june]  
-⏱️ Time Spent: [Duration, e.g., 1 hour]  
+⏱️ Time Spent:
 📍 Part: [Exhaust Manifold]
 
 🛠️ What I did:
@@ -146,13 +146,12 @@ Designing a detailed V6 engine in SolidWorks from scratch using real references,
    6.Open plane 1 and make a circle of dia 54.9 concentric with the previous circle and then open plane 2 and make a circle of dia 57.15
    7.Use the boundary boss/base feature,tangency to face and normal to profile
 ⚠️ Issues Faced:
-- [Any problems or confusion you encountered and fixed]
+
 
 📸 Screenshot Saved As: []  
 💾 File Saved As: []
 
 🔜 Next Step:
-- [What you plan to work on next]
 
 
 
